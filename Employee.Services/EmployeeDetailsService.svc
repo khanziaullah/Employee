@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Employee.Services.EmployeeDetailsService"
+    CodeBehind="EmployeeDetailsService.svc.cs"
+    Factory="Employee.Services.UnityServiceHostFactory" %>

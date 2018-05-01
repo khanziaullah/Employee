@@ -1,0 +1,7 @@
+C:\Code\Employee\Employee.DataAccessLayer\bin\Debug\Employee.DataAccessLayer.dll
+C:\Code\Employee\Employee.DataAccessLayer\bin\Debug\Employee.DataAccessLayer.pdb
+C:\Code\Employee\Employee.DataAccessLayer\bin\Debug\Employee.Model.dll
+C:\Code\Employee\Employee.DataAccessLayer\bin\Debug\Employee.Model.pdb
+C:\Code\Employee\Employee.DataAccessLayer\obj\Debug\Employee.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Code\Employee\Employee.DataAccessLayer\obj\Debug\Employee.DataAccessLayer.dll
+C:\Code\Employee\Employee.DataAccessLayer\obj\Debug\Employee.DataAccessLayer.pdb

@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Presenter", "Employee.Presenter\Employee.Presenter.csproj", "{C76B977B-07B1-440E-BCE2-A0EDEDCA8255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.View", "Employee.View\Employee.View.csproj", "{91249553-D801-45B1-A698-520D75564419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.ViewModels", "Employee.ViewModels\Employee.ViewModels.csproj", "{BF119DEB-DF32-46BE-A242-1CD8DE00DB1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Infrastructure", "Employee.Infrastructure\Employee.Infrastructure.csproj", "{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.UI.Web", "Employee.UI.Web\Employee.UI.Web.csproj", "{74387B51-E867-4984-A982-37A300C14F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.PresentationLogic", "Employee.PresentationLogic\Employee.PresentationLogic.csproj", "{4320738E-DE20-496F-9F5F-497CA1CDA61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76B977B-07B1-440E-BCE2-A0EDEDCA8255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76B977B-07B1-440E-BCE2-A0EDEDCA8255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76B977B-07B1-440E-BCE2-A0EDEDCA8255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76B977B-07B1-440E-BCE2-A0EDEDCA8255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91249553-D801-45B1-A698-520D75564419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91249553-D801-45B1-A698-520D75564419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91249553-D801-45B1-A698-520D75564419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91249553-D801-45B1-A698-520D75564419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF119DEB-DF32-46BE-A242-1CD8DE00DB1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF119DEB-DF32-46BE-A242-1CD8DE00DB1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF119DEB-DF32-46BE-A242-1CD8DE00DB1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF119DEB-DF32-46BE-A242-1CD8DE00DB1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74387B51-E867-4984-A982-37A300C14F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74387B51-E867-4984-A982-37A300C14F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74387B51-E867-4984-A982-37A300C14F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74387B51-E867-4984-A982-37A300C14F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4320738E-DE20-496F-9F5F-497CA1CDA61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4320738E-DE20-496F-9F5F-497CA1CDA61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4320738E-DE20-496F-9F5F-497CA1CDA61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4320738E-DE20-496F-9F5F-497CA1CDA61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {417636EF-BB38-4961-B72D-E25C368A751C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://khanziaullah.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Employee.Presenter\\Employee.Presenter.csproj
+		SccProjectName1 = Employee.Presenter
+		SccLocalPath1 = Employee.Presenter
+		SccProjectUniqueName2 = Employee.View\\Employee.View.csproj
+		SccProjectName2 = Employee.View
+		SccLocalPath2 = Employee.View
+		SccProjectUniqueName3 = Employee.ViewModels\\Employee.ViewModels.csproj
+		SccProjectName3 = Employee.ViewModels
+		SccLocalPath3 = Employee.ViewModels
+		SccProjectUniqueName4 = Employee.Infrastructure\\Employee.Infrastructure.csproj
+		SccProjectName4 = Employee.Infrastructure
+		SccLocalPath4 = Employee.Infrastructure
+		SccProjectUniqueName5 = Employee.UI.Web\\Employee.UI.Web.csproj
+		SccProjectName5 = Employee.UI.Web
+		SccLocalPath5 = Employee.UI.Web
+		SccProjectUniqueName6 = Employee.PresentationLogic\\Employee.PresentationLogic.csproj
+		SccProjectName6 = Employee.PresentationLogic
+		SccLocalPath6 = Employee.PresentationLogic
+	EndGlobalSection
+EndGlobal

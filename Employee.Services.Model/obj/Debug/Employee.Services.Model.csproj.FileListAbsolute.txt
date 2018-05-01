@@ -1,0 +1,5 @@
+C:\Code\Employee\Employee.Services.Model\bin\Debug\Employee.Services.Model.dll
+C:\Code\Employee\Employee.Services.Model\bin\Debug\Employee.Services.Model.pdb
+C:\Code\Employee\Employee.Services.Model\obj\Debug\Employee.Services.Model.csprojResolveAssemblyReference.cache
+C:\Code\Employee\Employee.Services.Model\obj\Debug\Employee.Services.Model.dll
+C:\Code\Employee\Employee.Services.Model\obj\Debug\Employee.Services.Model.pdb

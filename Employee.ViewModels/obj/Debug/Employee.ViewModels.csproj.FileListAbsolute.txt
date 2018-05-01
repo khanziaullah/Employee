@@ -1,0 +1,5 @@
+C:\Code\Employee\Employee.ViewModels\bin\Debug\Employee.ViewModels.dll.config
+C:\Code\Employee\Employee.ViewModels\bin\Debug\Employee.ViewModels.dll
+C:\Code\Employee\Employee.ViewModels\bin\Debug\Employee.ViewModels.pdb
+C:\Code\Employee\Employee.ViewModels\obj\Debug\Employee.ViewModels.dll
+C:\Code\Employee\Employee.ViewModels\obj\Debug\Employee.ViewModels.pdb

@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Infrastructure", "Employee.Infrastructure\Employee.Infrastructure.csproj", "{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Services", "Employee.Services\Employee.Services.csproj", "{40644B59-93AF-4464-852B-C91D8B8D2DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Services.Model", "Employee.Services.Model\Employee.Services.Model.csproj", "{A7CBA024-B9B8-47A2-8346-669EEC3676AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.BusinessLogicLayer", "Employee.BusinessLogicLayer\Employee.BusinessLogicLayer.csproj", "{9CB5F4FB-47D4-440C-A3BD-68487C567B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.DataAccessLayer", "Employee.DataAccessLayer\Employee.DataAccessLayer.csproj", "{37F7AD38-3000-4CD8-8345-E99A5D12E6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Model", "Employee.Model\Employee.Model.csproj", "{036D56FC-7DCC-4680-9626-79736F194B75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D41413-AC0E-47CD-AD86-0E03C91F3ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40644B59-93AF-4464-852B-C91D8B8D2DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40644B59-93AF-4464-852B-C91D8B8D2DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40644B59-93AF-4464-852B-C91D8B8D2DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40644B59-93AF-4464-852B-C91D8B8D2DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CBA024-B9B8-47A2-8346-669EEC3676AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CBA024-B9B8-47A2-8346-669EEC3676AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CBA024-B9B8-47A2-8346-669EEC3676AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CBA024-B9B8-47A2-8346-669EEC3676AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB5F4FB-47D4-440C-A3BD-68487C567B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB5F4FB-47D4-440C-A3BD-68487C567B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB5F4FB-47D4-440C-A3BD-68487C567B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB5F4FB-47D4-440C-A3BD-68487C567B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37F7AD38-3000-4CD8-8345-E99A5D12E6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F7AD38-3000-4CD8-8345-E99A5D12E6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F7AD38-3000-4CD8-8345-E99A5D12E6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F7AD38-3000-4CD8-8345-E99A5D12E6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{036D56FC-7DCC-4680-9626-79736F194B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{036D56FC-7DCC-4680-9626-79736F194B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{036D56FC-7DCC-4680-9626-79736F194B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{036D56FC-7DCC-4680-9626-79736F194B75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AED03BE9-11E3-4029-8EAE-B8D3A73D7E3D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://khanziaullah.visualstudio.com/
+		SccProjectUniqueName0 = Employee.Infrastructure\\Employee.Infrastructure.csproj
+		SccProjectName0 = Employee.Infrastructure
+		SccLocalPath0 = Employee.Infrastructure
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Employee.BusinessLogicLayer\\Employee.BusinessLogicLayer.csproj
+		SccProjectName2 = Employee.BusinessLogicLayer
+		SccLocalPath2 = Employee.BusinessLogicLayer
+		SccProjectUniqueName3 = Employee.DataAccessLayer\\Employee.DataAccessLayer.csproj
+		SccProjectName3 = Employee.DataAccessLayer
+		SccLocalPath3 = Employee.DataAccessLayer
+		SccProjectUniqueName4 = Employee.Model\\Employee.Model.csproj
+		SccProjectName4 = Employee.Model
+		SccLocalPath4 = Employee.Model
+		SccProjectUniqueName5 = Employee.Services.Model\\Employee.Services.Model.csproj
+		SccProjectName5 = Employee.Services.Model
+		SccLocalPath5 = Employee.Services.Model
+		SccProjectUniqueName6 = Employee.Services\\Employee.Services.csproj
+		SccProjectName6 = Employee.Services
+		SccLocalPath6 = Employee.Services
+	EndGlobalSection
+EndGlobal

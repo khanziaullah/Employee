@@ -1,0 +1,9 @@
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.BusinessLogicLayer.dll
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.BusinessLogicLayer.pdb
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.DataAccessLayer.dll
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.Model.dll
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.DataAccessLayer.pdb
+C:\Code\Employee\Employee.BusinessLogicLayer\bin\Debug\Employee.Model.pdb
+C:\Code\Employee\Employee.BusinessLogicLayer\obj\Debug\Employee.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Code\Employee\Employee.BusinessLogicLayer\obj\Debug\Employee.BusinessLogicLayer.dll
+C:\Code\Employee\Employee.BusinessLogicLayer\obj\Debug\Employee.BusinessLogicLayer.pdb

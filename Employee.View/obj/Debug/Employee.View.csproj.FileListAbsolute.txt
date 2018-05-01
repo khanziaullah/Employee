@@ -1,0 +1,6 @@
+C:\Code\Employee\Employee.View\bin\Debug\Employee.View.dll.config
+C:\Code\Employee\Employee.View\bin\Debug\Employee.View.dll
+C:\Code\Employee\Employee.View\bin\Debug\Employee.View.pdb
+C:\Code\Employee\Employee.View\obj\Debug\Employee.View.dll
+C:\Code\Employee\Employee.View\obj\Debug\Employee.View.pdb
+C:\Code\Employee\Employee.View\obj\Debug\Employee.View.csprojResolveAssemblyReference.cache
